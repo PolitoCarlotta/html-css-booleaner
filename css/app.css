@@ -32,7 +32,7 @@ h1{
 
 figure {
     margin-left: 0px;
-    width: 800px:
+    width: 900px;
 }
 
 figure img {
@@ -50,4 +50,30 @@ section {
 
 .underlined {
     background-color: yellow;
+}
+
+ul {
+    padding: 10px;
+}
+
+table {
+    width: 1200px;
+    font-size: 15px;
+}
+
+.table-column {
+    width: 25%;
+}
+
+.description-column {
+    width: 50%;
+}
+
+thead {
+    background-color: #6edae6;
+    color: white;
+}
+
+.rowcolor {
+    background-color: rgb(159, 222, 201);
 }
