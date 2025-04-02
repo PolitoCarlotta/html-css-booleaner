@@ -43,3 +43,11 @@ figure img {
 figcaption {
     font-size: 10px;
 }
+
+section {
+    font-size: 14px;
+}
+
+.underlined {
+    background-color: yellow;
+}
